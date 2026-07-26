@@ -119,6 +119,7 @@ You can't improve what you can't measure.
 - [AgentBench](https://github.com/THUDM/AgentBench) - Cross-environment benchmark spanning OS, databases, web, and more for comparing harness generality.
 - [HAL: Holistic Agent Leaderboard](https://hal.cs.princeton.edu/) - Leaderboard with attention to reliability and cost, not just task completion.
 - [auto-harness](https://github.com/neosigmaai/auto-harness) - Benchmark-gated optimization loop that mines failures, edits agent code, and guards against regressions overnight.
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Runs selectable browser-agent harnesses in isolated containers against live-site tasks, with request-interception scoring and five trace layers for reproducible, auditable comparisons ([project](https://claw-bench.com/)).
 
 ## Observability & Reliability
 
