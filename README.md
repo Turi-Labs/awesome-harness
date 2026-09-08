@@ -120,6 +120,8 @@ You can't improve what you can't measure.
 - [HAL: Holistic Agent Leaderboard](https://hal.cs.princeton.edu/) - Leaderboard with attention to reliability and cost, not just task completion.
 - [auto-harness](https://github.com/neosigmaai/auto-harness) - Benchmark-gated optimization loop that mines failures, edits agent code, and guards against regressions overnight.
 
+- [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) - Tests whether a compact agent trained across harness variations can use held-out prompt and Skill edits with frozen weights, addressing overfitting to a single runtime configuration.
+
 ## Observability & Reliability
 
 If you can't see what your agent is doing, you can't debug or improve it.
