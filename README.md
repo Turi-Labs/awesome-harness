@@ -158,6 +158,8 @@ Real systems you can read, run, and learn from.
 - [Building agents with the Claude Agent SDK (Anthropic)](https://claude.com/blog/building-agents-with-the-claude-agent-sdk) - Production-oriented SDK guide covering sessions, tools, and orchestration support.
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Hands-on harness tutorial for building Claude Code-like systems from scratch.
 
+- [Tale](https://github.com/tale-project/tale) - Keeps coding-agent workspaces across project tasks and routes reports and deliverables through shared review, making workspace lifecycle and handoff design inspectable.
+
 ## Templates
 
 Drop-in harness scaffolding for real projects.
