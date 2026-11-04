@@ -131,6 +131,7 @@ If you can't see what your agent is doing, you can't debug or improve it.
 - [AgentOps SDK](https://github.com/AgentOps-AI/agentops) - Monitoring and benchmarking SDK for agent workflows with cost and trace tracking.
 - [claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - Tooling to visualize and inspect Claude Code LLM interaction traces. Useful for debugging harness behavior.
 - [Assessing internal quality while coding with an agent (Thoughtworks)](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html) - Moving quality checks into the loop rather than relying on after-the-fact manual review.
+- [How to prevent duplicate action claims across AI agents (Tokenrip)](https://github.com/aleksandarperak33-hub/tokenrip-handoff-kit/blob/codex/first-task-kit/examples/shared-agent-reservations.md) - Uses sequential synthetic CLI checks of unique-key claims and stale-revision refusals to teach claim-before-action coordination, then explains receipt reconciliation for uncertain external effects.
 
 ## Guardrails & Security
 
