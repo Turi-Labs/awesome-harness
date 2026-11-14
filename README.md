@@ -82,6 +82,7 @@ Agents that run code need isolated environments. Don't skip this.
 - [SWE-ReX](https://github.com/SWE-agent/SWE-ReX) - Sandboxed code execution infrastructure for AI coding agents at local and cloud scale.
 - [Tensorlake](https://github.com/tensorlakeai/tensorlake) - Serverless runtime for agent sandboxes with MicroVM isolation, snapshots, and suspend-resume.
 - [Agent Sandbox (kubernetes-sigs)](https://github.com/kubernetes-sigs/agent-sandbox) - Kubernetes-native sandbox control plane for isolated, stateful agent runtimes.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Lets self-hosted agent operators enforce tool approvals and inspect sandboxed execution through session audit and replay.
 - [Mitigating Prompt Injection in Software Agents (OpenHands)](https://openhands.dev/blog/mitigating-prompt-injection-attacks-in-software-agents) - Confirmation mode, analyzers, sandboxing, and hard policies for reducing prompt-injection risk.
 
 ## Orchestration & Frameworks
